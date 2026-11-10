@@ -1,0 +1,26 @@
+{
+  "name": "anantha-app",
+  "version": "1.0.0",
+  "description": "good app",
+  "keywords": [
+    "freecodecamp"
+  ],
+  "homepage": "https://github.com/aziz-lgtm/node-js-lesson#readme",
+  "bugs": {
+    "url": "https://github.com/aziz-lgtm/node-js-lesson/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aziz-lgtm/node-js-lesson.git"
+  },
+  "license": "ISC",
+  "author": "Faishal Abrar",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "hello-mate"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
